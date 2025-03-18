@@ -2,10 +2,15 @@
 
 ## Course Description
 
-This course delves into the organization and architecture of computer systems, including processor design, memory hierarchy, and input/output mechanisms.
+In this subject, we explored how computers work at a low level, including the processor, memory, and input/output operations. We studied how instructions are executed and how hardware components interact.
 
 ## Practical Work
 
-- **CPU Design:** Simulate a simple central processing unit to understand its operation.
-- **Memory Management:** Explore memory allocation techniques and their impact on performance.
-- **I/O Systems:** Analyze different input/output architectures and their efficiencies.
+We developed a Memory Game using Assembly language. The project was divided into three levels:
+
+1. **Basic Level:** Implementing cursor movement and basic user input handling.
+
+2. **Intermediate Level:** Implementing logic to check for matching card pairs.
+
+3. **Advanced Level:** Enabling multiplayer functionality and keeping track of scores.
+This project allowed us to gain hands-on experience with low-level programming, working directly with memory operations and optimizing execution speed in Assembly.
